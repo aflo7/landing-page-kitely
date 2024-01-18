@@ -4,7 +4,6 @@ The page is a mockup/remake of the KitelyTech Web App Development Page.
 
 I used React, Git, Javascript, HTML, and CSS for this project.
 
-
 Here is a screenshot:
 
 ![alt](./ss.png)
