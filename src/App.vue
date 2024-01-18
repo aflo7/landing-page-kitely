@@ -16,9 +16,11 @@
 
   <div class="main-wrapper">
     <main>
-      <div style="padding: 80px 20px" class="left-main">
+      <div class="left-main">
         <h2>Web App Development</h2>
-        <p class="elevate-text">Elevate Businesses with Custom Web Applications</p>
+        <p class="elevate-text">
+          Elevate Businesses with Custom Web Applications
+        </p>
         <button class="view-capacities-button">View Capacities</button>
       </div>
       <div class="image-wrapper"></div>
@@ -30,7 +32,7 @@
 .image-wrapper {
   height: 400px;
   background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)),
-  url(https://assets-global.website-files.com/651350b7300b08a541ba70ae/65145344e1df33c391ef36c0_african-american-coder-employee-programming-busine-2021-12-09-02-41-56-utc-p-800.jpg);
+    url(https://assets-global.website-files.com/651350b7300b08a541ba70ae/65145344e1df33c391ef36c0_african-american-coder-employee-programming-busine-2021-12-09-02-41-56-utc-p-800.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -42,7 +44,6 @@
   padding: 10px 20px;
   border-radius: 1000px;
   cursor: pointer;
-
 }
 nav {
   display: flex;
@@ -81,6 +82,6 @@ h2 {
   display: flex;
   flex-direction: column;
   gap: 10px;
+  padding: 80px 20px;
 }
-
 </style>
